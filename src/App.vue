@@ -14,6 +14,7 @@
         >Frontend Mentor</a
       >. Coded by <a href="#">Salahudheen</a>.
     </div>
+    <router-view></router-view>
 </template>
 
 <script>
